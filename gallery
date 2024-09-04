@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>gallery</title>
+</head>
+<body>
+
+<h1><b> gallery</b></h1>
+<!--gallery images-->
+<p><img src="IMG_3442.jpg"width="300"</p>
+<p><img src="IMG_4895.JPG"width="300"</p>
+<p><img src="IMG_6636.JPG"width="300"</p>
+<p><img src="IMG_7186.jpg"width="300"</p>
+<!--Link to home page-->
+<p><a href="index.html">home page</a></p>
+
+</body>
+</html>
+

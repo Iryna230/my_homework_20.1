@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>CONTACTS</title>
+</head>
+<body>
+
+<h1><b>contact information</b></h1>
+<!--contact information-->
+<p> Email: LunaMaltese@ukr.net</p>
+<p> phone number: +380664445533</p>
+<!--Link to home page-->
+<p><a href="index.html">home page</a></p>
+
+</body>
+</html>
+
+
